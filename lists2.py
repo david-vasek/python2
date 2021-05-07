@@ -7,6 +7,7 @@ list_of_numbers = [1,2,3,4,5,6,7,8,9,10]
 
 total = 0
 
+# Comment out the other versions to run a specific version
 # Version 1
 # This prints the numbers AND the total as it changes 
 for number in list_of_numbers:

@@ -19,14 +19,11 @@ while index < len(pokemon_balls):
     print(pokemon_balls[index])
     index = index + 1
 
-
 # Here is a FOR loop
 print("-------FOR LOOP-------")
 for ball in pokemon_balls:
     print(ball)
 
-print("This next line should break...")
-print(ball)
 
 # FOR every SINGLE ITEM, which i am calling "ball"
 # that exists in my COLLECTION OF ITEMS, called "pokemon_balls"
